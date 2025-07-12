@@ -1,0 +1,2 @@
+# CampusGpt
+CampusGPT by QutixBrain 
